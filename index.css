@@ -32,3 +32,25 @@ body{
     color: antiquewhite;
     border: none;
 }
+.rhom1{
+    position: relative;
+    left: 110px;
+    height:750px;
+    top: -400px;
+    width: 10%;
+    background-color: #79a33c;
+    z-index: -10;
+    opacity: 5%;
+    transform: skewX(-10deg);
+}
+.rhom2{
+    position: relative;
+    top: -1000px;
+    left: 10px;
+    height: 500px;
+    width: 10%;
+    background-color: #79a33c;
+    z-index: -15;
+    opacity: 5%;
+    transform: skewX(-10deg);
+}
